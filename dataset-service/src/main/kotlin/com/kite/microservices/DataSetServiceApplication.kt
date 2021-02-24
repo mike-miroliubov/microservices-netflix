@@ -6,8 +6,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient
 
 @SpringBootApplication
 @EnableDiscoveryClient
-class MicroservicesApplication
+class DataSetServiceApplication
 
 fun main(args: Array<String>) {
-	runApplication<MicroservicesApplication>(*args)
+	runApplication<DataSetServiceApplication>(*args)
 }
