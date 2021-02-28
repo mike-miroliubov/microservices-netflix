@@ -1,4 +1,4 @@
-package com.kite.microservices
+package com.kite.microservices.netflix.vcf
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

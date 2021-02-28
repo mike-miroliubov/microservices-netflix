@@ -16,7 +16,7 @@ plugins {
 }
 
 allprojects {
-    group = "com.example"
+    group = "com.kite.microservices.netflix"
     version = "1.0.0"
 
     tasks.withType<JavaCompile> {

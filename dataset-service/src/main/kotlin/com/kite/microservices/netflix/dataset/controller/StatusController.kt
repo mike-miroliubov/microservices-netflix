@@ -1,4 +1,4 @@
-package com.kite.microservices.controller
+package com.kite.microservices.netflix.dataset.controller
 
 import com.netflix.discovery.EurekaClient
 import org.slf4j.Logger

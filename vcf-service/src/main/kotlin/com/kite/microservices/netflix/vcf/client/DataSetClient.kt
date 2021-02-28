@@ -1,6 +1,6 @@
-package com.kite.microservices.client
+package com.kite.microservices.netflix.vcf.client
 
-import com.kite.microservices.config.RibbonConfig
+import com.kite.microservices.netflix.vcf.config.RibbonConfig
 import org.springframework.cloud.netflix.ribbon.RibbonClient
 import org.springframework.cloud.openfeign.FeignClient
 import org.springframework.web.bind.annotation.GetMapping

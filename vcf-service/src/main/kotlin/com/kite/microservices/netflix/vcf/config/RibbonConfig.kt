@@ -1,4 +1,4 @@
-package com.kite.microservices.config
+package com.kite.microservices.netflix.vcf.config
 
 import com.netflix.loadbalancer.IPing
 import com.netflix.loadbalancer.IRule

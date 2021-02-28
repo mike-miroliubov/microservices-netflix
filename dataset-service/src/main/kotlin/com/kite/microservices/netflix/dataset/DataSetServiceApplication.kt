@@ -1,15 +1,13 @@
-package com.kite.microservices.netflix.gateway
+package com.kite.microservices.netflix.dataset
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient
-import org.springframework.cloud.netflix.zuul.EnableZuulProxy
 
 @SpringBootApplication
-@EnableZuulProxy
 @EnableDiscoveryClient
-class ZuulProxyApplication
+class DataSetServiceApplication
 
 fun main(args: Array<String>) {
-    runApplication<ZuulProxyApplication>(*args)
+	runApplication<DataSetServiceApplication>(*args)
 }

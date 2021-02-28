@@ -1,6 +1,6 @@
-package com.kite.microservices.service
+package com.kite.microservices.netflix.vcf.service
 
-import com.kite.microservices.client.DataSetClient
+import com.kite.microservices.netflix.vcf.client.DataSetClient
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand
 import org.springframework.stereotype.Service
 
