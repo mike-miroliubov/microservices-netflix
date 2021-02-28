@@ -13,6 +13,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("org.springframework.cloud:spring-cloud-starter-netflix-eureka-client")
     implementation("org.springframework.cloud:spring-cloud-starter-netflix-ribbon")
+    implementation("org.springframework.cloud:spring-cloud-starter-netflix-hystrix")
     implementation("org.springframework.cloud:spring-cloud-starter-openfeign")
 
     implementation("org.jetbrains.kotlin:kotlin-reflect")
