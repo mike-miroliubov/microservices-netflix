@@ -1,4 +1,4 @@
-package com.kite.microservices.netflix.vcfservice.netflix.registry
+package com.kite.microservices.netflix.registry
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

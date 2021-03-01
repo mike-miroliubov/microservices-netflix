@@ -1,4 +1,4 @@
-package com.kite.microservices.netflix.vcfservice.netflix.gateway
+package com.kite.microservices.netflix.gateway
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

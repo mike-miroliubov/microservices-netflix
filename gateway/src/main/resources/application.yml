@@ -10,6 +10,11 @@ management:
       exposure:
         include: '*'
 
+zuul:
+  ignoredServices: '*'
+  routes:
+    vcf-service: /vcf/**
+
 eureka:
   instance:
     preferIpAddress: true

@@ -1,4 +1,4 @@
-package com.kite.microservices.netflix.vcfservice
+package com.kite.microservices.netflix.dataset
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
